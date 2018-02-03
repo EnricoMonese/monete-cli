@@ -1,1 +1,3 @@
-https://developer.atlassian.com/blog/2015/11/scripting-with-node/
+# MONETE
+
+A simple command line timer

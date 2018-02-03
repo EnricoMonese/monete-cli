@@ -1,17 +1,19 @@
 {
-  "name": "monete",
+  "name": "monete-cli",
   "version": "1.0.0",
-  "description": "Time tracking",
-  "main": "monete.js",
+  "description": "Command line timer",
+  "main": "monete-cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "time",
-    "tracking"
+    "tracking",
+    "cli",
+    "timer"
   ],
   "author": "Enrico Monese",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "alternate-screen": "^1.0.0",
     "chalk": "^2.3.0",
