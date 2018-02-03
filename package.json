@@ -14,11 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
-    "cli": "^1.0.1",
+    "clipboardy": "^1.2.2",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.13.0",
     "moment": "^2.20.1",
-    "progress": "^2.0.0"
+    "ora": "^1.4.0",
+    "string-format": "^0.5.0"
   }
 }
