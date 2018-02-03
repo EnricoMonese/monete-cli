@@ -13,7 +13,12 @@
   "author": "Enrico Monese",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.3.0",
     "cli": "^1.0.1",
-    "commander": "^2.13.0"
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.13.0",
+    "moment": "^2.20.1",
+    "progress": "^2.0.0"
   }
 }
