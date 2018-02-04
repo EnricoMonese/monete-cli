@@ -12,7 +12,10 @@
     "cli",
     "timer"
   ],
-  "repository": "enricomonese/monete-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enricomonese/monete-cli"
+  },
   "author": "Enrico Monese",
   "license": "MIT",
   "dependencies": {
