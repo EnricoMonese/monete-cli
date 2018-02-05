@@ -11,7 +11,7 @@ const clipboardy = require('clipboardy');
 const { show, hide } = require('alternate-screen')
 
 program
-  .version('0.1.0')
+  .version('1.0.2')
   .option('-c, --copy', 'Copies time to clipboard at the end')
   .option('-p, --precise', 'Show exact time passed as [0h 0m]')
   .option('-s, --same-screen', 'Don\'t output to alternate screen')
