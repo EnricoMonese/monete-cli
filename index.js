@@ -48,7 +48,7 @@ co(function *() {
     yield prompt('\nPress enter again to exit');
     hide();
   }
-  process.exit(1);
+  process.exit(0);
 });
 
 function time (precise = false) {
