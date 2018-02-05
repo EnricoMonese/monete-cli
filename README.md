@@ -4,6 +4,9 @@ A simple command line timer
 
 ![Script Editor](/monete-cli-screenshots.png)
 
+Install
+`npm install -g monete-cli`
+
 Usage:
 ```
 monete -h
