@@ -2,6 +2,8 @@
 
 A simple command line timer
 
+![Script Editor](/monete-cli-screenshots.png)
+
 Usage:
 ```
 monete -h
